@@ -1,0 +1,145 @@
+/*
+#######################################
+####    BootStrap Modal effects    ####
+####    By: Hrily                  ####
+####    github.com/Hrily           ####
+#######################################
+*/
+
+/* Slide Right */
+.slide-right {
+  opacity: 0;
+  transform: translate(-50%,0);
+  -webkit-transition: all .3s linear;
+       -o-transition: all .3s linear;
+          transition: all .3s linear;
+}
+
+.slide-right.in {
+    transform: translate(0,0);
+    opacity: 1;
+}
+
+/* Slide Left */
+.slide-left {
+  opacity: 0;
+  transform: translate(50%,0);
+  -webkit-transition: all .3s linear;
+       -o-transition: all .3s linear;
+          transition: all .3s linear;
+}
+
+.slide-left.in {
+    transform: translate(0,0);
+    opacity: 1;
+}
+
+/* Slide Up */
+.slide-up {
+  opacity: 0;
+  transform: translate(0,50%);
+  -webkit-transition: all .3s linear;
+       -o-transition: all .3s linear;
+          transition: all .3s linear;
+}
+
+.slide-up.in {
+    transform: translate(0,0);
+    opacity: 1;
+}
+
+/* Slide Down */
+.slide-down {
+  opacity: 0;
+  transform: translate(0,-25%);
+  -webkit-transition: all .3s linear;
+       -o-transition: all .3s linear;
+          transition: all .3s linear;
+}
+
+.slide-down.in {
+    transform: translate(0,0);
+    opacity: 1;
+}
+
+/* Emerge */
+.emerge {
+  opacity: 0;
+  -webkit-transition: all .3s linear;
+       -o-transition: all .3s linear;
+          transition: all .3s linear;
+}
+
+.emerge.in {
+    opacity: 1;
+}
+
+/* Pop */
+.pop {
+  opacity: 0;
+  transform: translate(0,-25%) scale(0.1); 
+  -webkit-transition: all .3s linear;
+       -o-transition: all .3s linear;
+          transition: all .3s linear;
+}
+
+.pop.in {
+    opacity: 1;
+    transform: scale(1);
+}
+
+/* Pop Right */
+.pop-right {
+  opacity: 0;
+  transform: translate(-50%,-25%) scale(0.1); 
+  -webkit-transition: all .3s linear;
+       -o-transition: all .3s linear;
+          transition: all .3s linear;
+}
+
+.pop-right.in {
+    opacity: 1;
+    transform: scale(1);
+}
+
+/* Pop Left */
+.pop-left {
+  opacity: 0;
+  transform: translate(50%,-25%) scale(0.1); 
+  -webkit-transition: all .3s linear;
+       -o-transition: all .3s linear;
+          transition: all .3s linear;
+}
+
+.pop-left.in {
+    opacity: 1;
+    transform: scale(1);
+}
+
+/* Pop Up */
+.pop-up {
+  opacity: 0;
+  transform: translate(0,0) scale(0.1); 
+  -webkit-transition: all .3s linear;
+       -o-transition: all .3s linear;
+          transition: all .3s linear;
+}
+
+.pop-up.in {
+    opacity: 1;
+    transform: scale(1);
+}
+
+/* Pop Down */
+.pop-down {
+  opacity: 0;
+  transform: translate(0,-50%) scale(0.1); 
+  -webkit-transition: all .3s linear;
+       -o-transition: all .3s linear;
+          transition: all .3s linear;
+}
+
+.pop-down.in {
+    opacity: 1;
+    transform: scale(1);
+}
