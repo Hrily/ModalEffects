@@ -1,20 +1,18 @@
 # ModalEffects
-# BootStrap Modal effects
 
-#######################################
 ####    BootStrap Modal effects    ####
 ####    By: Hrily                  ####
 ####    github.com/Hrily           ####
-#######################################
 
 Additional BootStrap Modal effects
+
 by Hrily
 
 Effects Included:
-	Slide Right
+ 	Slide Right
 	Slide Left
-	Slide Up
-	Slide Down
+ 	Slide Up
+ 	Slide Down
 	Emerge
 	Pop
 	Pop Right
@@ -22,7 +20,7 @@ Effects Included:
 	Pop Up
 	Pop Down
 
-####################### IMPORTANT  #######################
+###### IMPORTANT
 js/bootstrap.js and js/bootstrap.min.js
 	are modified in order to work these effects
 If you want to use these effects:
