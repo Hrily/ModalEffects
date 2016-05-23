@@ -5,7 +5,6 @@
 ####    github.com/Hrily           ####
 
 Additional BootStrap Modal effects
-
 by Hrily
 
 Effects Included:
@@ -29,4 +28,3 @@ If you want to use these effects:
 		js/bootstrap.js
 		js/bootstrap.min.js 
 	to your project
-##########################################################
