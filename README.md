@@ -5,6 +5,7 @@
 ####    github.com/Hrily           ####
 
 Additional BootStrap Modal effects using CSS
+
 by Hrily
 
 Effects Included:
@@ -19,14 +20,16 @@ Effects Included:
 + Pop Up
 + Pop Down
 
-###### IMPORTANT
+##### IMPORTANT
 
 js/bootstrap.js and js/bootstrap.min.js are modified in order to work these effects
 	
 If you want to use these effects:
+
 Copy 
 + css/effects.css 
 + js/bootstrap.js
 + js/bootstrap.min.js 
+
 to your project
 	
