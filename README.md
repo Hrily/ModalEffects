@@ -32,9 +32,7 @@ Effects Included:
 
 ###### IMPORTANT
 
-js/bootstrap.js and js/bootstrap.min.js
-
-	are modified in order to work these effects
+js/bootstrap.js and js/bootstrap.min.js are modified in order to work these effects
 	
 If you want to use these effects:
 
@@ -46,5 +44,5 @@ If you want to use these effects:
 		
 		js/bootstrap.min.js 
 		
-	to your project
+to your project
 	
