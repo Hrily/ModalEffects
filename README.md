@@ -33,3 +33,12 @@ Copy
 
 to your project
 	
+
+Tested on:
++ Desktop
+  - Mozilla Firefox
+  - Opera
++ Android
+  - Mozilla Firefox
+  - UC Browser (Not working, doesn't support trasnslate())
+  - Chrome
