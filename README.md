@@ -4,7 +4,7 @@
 ####    By: Hrily                  ####
 ####    github.com/Hrily           ####
 
-Preview: [hrily.github.io/ModalEffects](hrily.github.io/ModalEffects)
+Preview: [http://hrily.github.io/ModalEffects](http://hrily.github.io/ModalEffects)
 
 Additional BootStrap Modal effects using CSS
 
